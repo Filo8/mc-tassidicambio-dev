@@ -1,0 +1,30 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: tassodicambio
+      username: tdc
+      password: tdc
+      authentication-database: tassodicambio
+      driver-credentials: true
+  output:
+    ansi:
+      enabled: always
+  devtools:
+    restart:
+      enabled: true
+    data.mongodb:
+      show-commands: true
+  csv:
+    url: "http://example.com/data.csv"
+  docker:
+    compose:
+      lifecycle-management: start-only
+error:
+  handling:
+    http-status-in-json-response: true
+    exception-logging: NO_LOGGING
+    full-stacktrace-http-statuses: 5xx
+    log-levels:
+      5xx: ERROR

@@ -1,0 +1,99 @@
+@RunWith(SpringRunner.class)
+@SpringBootTest
+public class CurrencyServiceTest {
+
+  @Mock
+  private CurrencyRepository currencyRepository;
+
+  @InjectMocks
+  private CurrencyService currencyService;
+
+  @Before
+  public void setUp() {
+    MockitoAnnotations.initMocks(this);
+  }
+
+  @Test
+  public void testGetAllCurrencies() {
+    // Define mock data
+    List<Currency> currencies = Arrays.asList(
+      new Currency(
+        "EUR",
+        "Italy",
+        "IT",
+        "Euro",
+        "2002-01-01",
+        null,
+        "2023-05-23"
+      ),
+      new Currency(
+        "USD",
+        "United States",
+        "US",
+        "US Dollar",
+        "1792-02-25",
+        null,
+        "2023-05-23"
+      )
+    );
+
+    // Mock repository behavior
+    when(currencyRepository.findAll()).thenReturn(currencies);
+
+    // Call the service method
+    List<CurrencyDTO> allCurrencies = currencyService.get_all_currencies();
+
+    // Assert results (you can use various assertions from JUnit)
+    assertEquals(2, allCurrencies.size());
+    assertEquals("EUR", allCurrencies.get(0).getCurrencyISO());
+  }
+
+  @Test
+  public void testGetCurrenciesByCurrencyISO() {
+    // Define mock data with duplicates
+    List<Currency> currencies = Arrays.asList(
+      new Currency(
+        "EUR",
+        "Italy",
+        "IT",
+        "Euro",
+        "2002-01-01",
+        null,
+        "2023-05-23"
+      ),
+      new Currency(
+        "USD",
+        "United States",
+        "US",
+        "US Dollar",
+        "1792-02-25",
+        null,
+        "2023-05-23"
+      ),
+      new Currency(
+        "EUR",
+        "Germany",
+        "DE",
+        "Euro",
+        "2002-01-01",
+        null,
+        "2023-05-23"
+      )
+    );
+
+    // Mock repository behavior
+    when(currencyRepository.findAll()).thenReturn(currencies);
+
+    // Call the service method
+    List<CurrencyDTO> currenciesByIso = currencyService.get_currencies_by_currency_iso();
+
+    // Assert results (you can use various assertions from JUnit)
+    assertEquals(2, currenciesByIso.size()); // Only unique currencies expected
+    assertTrue(
+      currenciesByIso.stream().anyMatch(c -> c.getCurrencyISO().equals("EUR"))
+    );
+    assertTrue(
+      currenciesByIso.stream().anyMatch(c -> c.getCurrencyISO().equals("USD"))
+    );
+  }
+}

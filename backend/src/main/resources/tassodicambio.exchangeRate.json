@@ -1,0 +1,6538 @@
+[
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53df3"
+    },
+    "country": "AFGHANISTAN",
+    "currency": "Afghani",
+    "isoCode": "AFN",
+    "uicCode": 115,
+    "avgRate": "77.2752",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.660Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53df4"
+    },
+    "country": "ALBANIA",
+    "currency": "Lek",
+    "isoCode": "ALL",
+    "uicCode": 47,
+    "avgRate": "100.72",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.660Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53df5"
+    },
+    "country": "ALGERIA",
+    "currency": "Dinaro Algerino",
+    "isoCode": "DZD",
+    "uicCode": 106,
+    "avgRate": "144.0577",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.660Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53df6"
+    },
+    "country": "ANGOLA",
+    "currency": "Readjustado Kwanza",
+    "isoCode": "AOA",
+    "uicCode": 87,
+    "avgRate": "900.654",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.660Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53df7"
+    },
+    "country": "ANTIGUA E BARBUDA",
+    "currency": "Dollaro Caraibi Est",
+    "isoCode": "XCD",
+    "uicCode": 137,
+    "avgRate": "2.8928",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.660Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53df8"
+    },
+    "country": "ANTILLE OLANDESI",
+    "currency": "Fiorino Antille Olandesi",
+    "isoCode": "ANG",
+    "uicCode": 132,
+    "avgRate": "1.9178",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.660Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53df9"
+    },
+    "country": "ARABIA SAUDITA",
+    "currency": "Riyal Saudita",
+    "isoCode": "SAR",
+    "uicCode": 75,
+    "avgRate": "4.0178",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.660Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53dfa"
+    },
+    "country": "ARGENTINA",
+    "currency": "Peso Argentina",
+    "isoCode": "ARS",
+    "uicCode": 216,
+    "avgRate": "936.2770",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.660Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53dfb"
+    },
+    "country": "ARMENIA",
+    "currency": "Dram Armenia",
+    "isoCode": "AMD",
+    "uicCode": 246,
+    "avgRate": "416.90",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.660Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53dfc"
+    },
+    "country": "ARUBA",
+    "currency": "Fiorino Aruba",
+    "isoCode": "AWG",
+    "uicCode": 211,
+    "avgRate": "1.9178",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.660Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53dfd"
+    },
+    "country": "AUSTRALIA",
+    "currency": "Dollaro Australiano",
+    "isoCode": "AUD",
+    "uicCode": 109,
+    "avgRate": "1.6392",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.660Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53dfe"
+    },
+    "country": "AZERBAIGIAN",
+    "currency": "Manat Azerbaigian (nuovo)",
+    "isoCode": "AZN",
+    "uicCode": 271,
+    "avgRate": "1.8214",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.660Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53dff"
+    },
+    "country": "BAHAMAS",
+    "currency": "Dollaro Bahama",
+    "isoCode": "BSD",
+    "uicCode": 135,
+    "avgRate": "1.0714",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.660Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e00"
+    },
+    "country": "BAHRAIN",
+    "currency": "Dinaro Bahrain",
+    "isoCode": "BHD",
+    "uicCode": 136,
+    "avgRate": "0.403",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.660Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e01"
+    },
+    "country": "BANGLADESH",
+    "currency": "Taka",
+    "isoCode": "BDT",
+    "uicCode": 174,
+    "avgRate": "117.8540",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.660Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e02"
+    },
+    "country": "BARBADOS",
+    "currency": "Dollaro Barbados",
+    "isoCode": "BBD",
+    "uicCode": 195,
+    "avgRate": "2.142800",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e03"
+    },
+    "country": "BELIZE",
+    "currency": "Dollaro Belize",
+    "isoCode": "BZD",
+    "uicCode": 152,
+    "avgRate": "2.1428",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e04"
+    },
+    "country": "BENIN",
+    "currency": "Franco CFA",
+    "isoCode": "XOF",
+    "uicCode": 209,
+    "avgRate": "655.957",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e05"
+    },
+    "country": "BERMUDA",
+    "currency": "Dollaro Bermuda",
+    "isoCode": "BMD",
+    "uicCode": 138,
+    "avgRate": "1.0714",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e06"
+    },
+    "country": "BHUTAN",
+    "currency": "Ngultrum",
+    "isoCode": "BTN",
+    "uicCode": 180,
+    "avgRate": "89.3191",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e07"
+    },
+    "country": "BIELORUSSIA",
+    "currency": "Rublo Bielorussia (nuovo)",
+    "isoCode": "BYN",
+    "uicCode": 280,
+    "avgRate": "N.D.",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e08"
+    },
+    "country": "BOLIVIA",
+    "currency": "Boliviano",
+    "isoCode": "BOB",
+    "uicCode": 74,
+    "avgRate": "7.4034",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e09"
+    },
+    "country": "BOSNIA ERZEGOVINA",
+    "currency": "Marco Convertibile",
+    "isoCode": "BAM",
+    "uicCode": 240,
+    "avgRate": "1.95583",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e0a"
+    },
+    "country": "BOTSWANA",
+    "currency": "Pula",
+    "isoCode": "BWP",
+    "uicCode": 171,
+    "avgRate": "14.7983",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e0b"
+    },
+    "country": "BRASILE",
+    "currency": "Real",
+    "isoCode": "BRL",
+    "uicCode": 234,
+    "avgRate": "5.5208",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e0c"
+    },
+    "country": "BRUNEI DARUSSALAM",
+    "currency": "Dollaro Brunei",
+    "isoCode": "BND",
+    "uicCode": 139,
+    "avgRate": "1.4587",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e0d"
+    },
+    "country": "BULGARIA",
+    "currency": "Nuovo Lev Bulgaria",
+    "isoCode": "BGN",
+    "uicCode": 262,
+    "avgRate": "1.9558",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e0e"
+    },
+    "country": "BURKINA FASO",
+    "currency": "Franco CFA",
+    "isoCode": "XOF",
+    "uicCode": 209,
+    "avgRate": "655.957",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e0f"
+    },
+    "country": "BURUNDI",
+    "currency": "Franco Burundi",
+    "isoCode": "BIF",
+    "uicCode": 140,
+    "avgRate": "3079.603",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e10"
+    },
+    "country": "CAMBOGIA",
+    "currency": "Riel Kampuchea",
+    "isoCode": "KHR",
+    "uicCode": 141,
+    "avgRate": "4349.39",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e11"
+    },
+    "country": "CAMERUN",
+    "currency": "Franco CFA",
+    "isoCode": "XAF",
+    "uicCode": 43,
+    "avgRate": "655.957",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e12"
+    },
+    "country": "CANADA",
+    "currency": "Dollaro Canadese",
+    "isoCode": "CAD",
+    "uicCode": 12,
+    "avgRate": "1.4632",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e13"
+    },
+    "country": "CAPO VERDE",
+    "currency": "Escudo Capo Verde",
+    "isoCode": "CVE",
+    "uicCode": 181,
+    "avgRate": "110.265",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e14"
+    },
+    "country": "CAYMAN (Isole)",
+    "currency": "Dollaro Isole Cayman",
+    "isoCode": "KYD",
+    "uicCode": 205,
+    "avgRate": "0.8785",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e15"
+    },
+    "country": "CECA (Repubblica)",
+    "currency": "Corona Ceca",
+    "isoCode": "CZK",
+    "uicCode": 223,
+    "avgRate": "25.1640",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e16"
+    },
+    "country": "CENTRAFRICANA (Repubblica)",
+    "currency": "Franco CFA",
+    "isoCode": "XAF",
+    "uicCode": 43,
+    "avgRate": "655.957",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e17"
+    },
+    "country": "CIAD",
+    "currency": "Franco CFA",
+    "isoCode": "XAF",
+    "uicCode": 43,
+    "avgRate": "655.957",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e18"
+    },
+    "country": "CILE",
+    "currency": "Peso Cileno",
+    "isoCode": "CLP",
+    "uicCode": 29,
+    "avgRate": "1016.67",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e19"
+    },
+    "country": "CINA (Repubblica Popolare di)",
+    "currency": "Renminbi(Yuan)",
+    "isoCode": "CNY",
+    "uicCode": 144,
+    "avgRate": "7.7638",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e1a"
+    },
+    "country": "COLOMBIA",
+    "currency": "Peso Colombiano",
+    "isoCode": "COP",
+    "uicCode": 40,
+    "avgRate": "4238.87",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e1b"
+    },
+    "country": "COMORE (Isole)",
+    "currency": "Franco Isole Comore",
+    "isoCode": "KMF",
+    "uicCode": 210,
+    "avgRate": "491.96775",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e1c"
+    },
+    "country": "CONGO (Repubblica Democratica)",
+    "currency": "Franco Congolese",
+    "isoCode": "CDF",
+    "uicCode": 261,
+    "avgRate": "2987.4719",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e1d"
+    },
+    "country": "CONGO (Repubblica del)",
+    "currency": "Franco CFA",
+    "isoCode": "XAF",
+    "uicCode": 43,
+    "avgRate": "655.957",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e1e"
+    },
+    "country": "COREA DEL NORD",
+    "currency": "Won Nord",
+    "isoCode": "KPW",
+    "uicCode": 182,
+    "avgRate": "2.3571",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e1f"
+    },
+    "country": "COREA DEL SUD",
+    "currency": "Won Sud",
+    "isoCode": "KRW",
+    "uicCode": 119,
+    "avgRate": "1474.65",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e20"
+    },
+    "country": "COSTA D AVORIO",
+    "currency": "Franco CFA",
+    "isoCode": "XOF",
+    "uicCode": 209,
+    "avgRate": "655.957",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e21"
+    },
+    "country": "COSTA RICA",
+    "currency": "Colon Costa Rica",
+    "isoCode": "CRC",
+    "uicCode": 77,
+    "avgRate": "541.2820",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e22"
+    },
+    "country": "CUBA",
+    "currency": "Peso Cubano",
+    "isoCode": "CUP",
+    "uicCode": 67,
+    "avgRate": "25.7136",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e23"
+    },
+    "country": "DANIMARCA",
+    "currency": "Corona Danese",
+    "isoCode": "DKK",
+    "uicCode": 7,
+    "avgRate": "7.4573",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e24"
+    },
+    "country": "DOMINICA",
+    "currency": "Dollaro Caraibi Est",
+    "isoCode": "XCD",
+    "uicCode": 137,
+    "avgRate": "2.8928",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.662Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e25"
+    },
+    "country": "DOMINICANA (Repubblica)",
+    "currency": "Peso Dominicano",
+    "isoCode": "DOP",
+    "uicCode": 116,
+    "avgRate": "62.7536",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e26"
+    },
+    "country": "EGITTO",
+    "currency": "Lira Egiziana",
+    "isoCode": "EGP",
+    "uicCode": 70,
+    "avgRate": "51.3188",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e27"
+    },
+    "country": "EL SALVADOR",
+    "currency": "Colon Salvadoregno",
+    "isoCode": "SVC",
+    "uicCode": 117,
+    "avgRate": "9.3748",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e28"
+    },
+    "country": "EMIRATI ARABI UNITI",
+    "currency": "Dirham Emirati Arabi",
+    "isoCode": "AED",
+    "uicCode": 187,
+    "avgRate": "3.9347",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e29"
+    },
+    "country": "ERITREA",
+    "currency": "Nakfa",
+    "isoCode": "ERN",
+    "uicCode": 243,
+    "avgRate": "16.4781",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e2a"
+    },
+    "country": "ESWATINI (EX SWAZILAND)",
+    "currency": "Lilangeni",
+    "isoCode": "SZL",
+    "uicCode": 173,
+    "avgRate": "20.2037",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e2b"
+    },
+    "country": "ETIOPIA",
+    "currency": "Birr",
+    "isoCode": "ETB",
+    "uicCode": 68,
+    "avgRate": "61.2534",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e2c"
+    },
+    "country": "FALKLAND o MALVINE (Isole)",
+    "currency": "Sterlina Falkland",
+    "isoCode": "FKP",
+    "uicCode": 146,
+    "avgRate": "0.85643",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e2d"
+    },
+    "country": "FIJI",
+    "currency": "Dollaro Fiji",
+    "isoCode": "FJD",
+    "uicCode": 147,
+    "avgRate": "2.4517",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e2e"
+    },
+    "country": "FILIPPINE",
+    "currency": "Peso Filippino",
+    "isoCode": "PHP",
+    "uicCode": 66,
+    "avgRate": "61.8300",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e2f"
+    },
+    "country": "FONDO MONETARIO INTERNAZIONALE",
+    "currency": "DSP",
+    "isoCode": "XDR",
+    "uicCode": 188,
+    "avgRate": "0.813186",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e30"
+    },
+    "country": "GABON",
+    "currency": "Franco CFA",
+    "isoCode": "XAF",
+    "uicCode": 43,
+    "avgRate": "655.957",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e31"
+    },
+    "country": "GAMBIA",
+    "currency": "Dalasi",
+    "isoCode": "GMD",
+    "uicCode": 193,
+    "avgRate": "71.85",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e32"
+    },
+    "country": "GEORGIA",
+    "currency": "Lari",
+    "isoCode": "GEL",
+    "uicCode": 230,
+    "avgRate": "2.8703",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e33"
+    },
+    "country": "GHANA",
+    "currency": "Nuovo Cedi Ghana",
+    "isoCode": "GHS",
+    "uicCode": 276,
+    "avgRate": "14.5115",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e34"
+    },
+    "country": "GIAMAICA",
+    "currency": "Dollaro Giamaicano",
+    "isoCode": "JMD",
+    "uicCode": 142,
+    "avgRate": "167.2516",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e35"
+    },
+    "country": "GIAPPONE",
+    "currency": "Yen Giapponese",
+    "isoCode": "JPY",
+    "uicCode": 71,
+    "avgRate": "168.0300",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e36"
+    },
+    "country": "GIBILTERRA",
+    "currency": "Sterlina Gibilterra",
+    "isoCode": "GIP",
+    "uicCode": 44,
+    "avgRate": "0.85643",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e37"
+    },
+    "country": "GIBUTI",
+    "currency": "Franco Gibuti",
+    "isoCode": "DJF",
+    "uicCode": 83,
+    "avgRate": "190.410",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e38"
+    },
+    "country": "GIORDANIA",
+    "currency": "Dinaro Giordano",
+    "isoCode": "JOD",
+    "uicCode": 89,
+    "avgRate": "0.7596",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e39"
+    },
+    "country": "GRENADA",
+    "currency": "Dollaro Caraibi Est",
+    "isoCode": "XCD",
+    "uicCode": 137,
+    "avgRate": "2.8928",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e3a"
+    },
+    "country": "GUATEMALA",
+    "currency": "Quetzal",
+    "isoCode": "GTQ",
+    "uicCode": 78,
+    "avgRate": "8.3327",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e3b"
+    },
+    "country": "GUINEA",
+    "currency": "Franco Guineano",
+    "isoCode": "GNF",
+    "uicCode": 129,
+    "avgRate": "9122.1873",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e3c"
+    },
+    "country": "GUINEA BISSAU",
+    "currency": "Franco CFA",
+    "isoCode": "XOF",
+    "uicCode": 209,
+    "avgRate": "655.957",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e3d"
+    },
+    "country": "GUINEA EQUATORIALE",
+    "currency": "Franco CFA",
+    "isoCode": "XAF",
+    "uicCode": 43,
+    "avgRate": "655.957",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e3e"
+    },
+    "country": "GUYANA",
+    "currency": "Dollaro Guyana",
+    "isoCode": "GYD",
+    "uicCode": 149,
+    "avgRate": "224.1583",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e3f"
+    },
+    "country": "HAITI",
+    "currency": "Gourde",
+    "isoCode": "HTG",
+    "uicCode": 151,
+    "avgRate": "141.6620",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e40"
+    },
+    "country": "HONDURAS",
+    "currency": "Lempira",
+    "isoCode": "HNL",
+    "uicCode": 118,
+    "avgRate": "26.4728",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e41"
+    },
+    "country": "HONG KONG (Cina)",
+    "currency": "Dollaro Hong Kong",
+    "isoCode": "HKD",
+    "uicCode": 103,
+    "avgRate": "8.3873",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e42"
+    },
+    "country": "INDIA",
+    "currency": "Rupia Indiana",
+    "isoCode": "INR",
+    "uicCode": 31,
+    "avgRate": "89.3191",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e43"
+    },
+    "country": "INDONESIA",
+    "currency": "Rupia Indonesiana",
+    "isoCode": "IDR",
+    "uicCode": 123,
+    "avgRate": "17385.77",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e44"
+    },
+    "country": "IRAN",
+    "currency": "Rial Iraniano",
+    "isoCode": "IRR",
+    "uicCode": 57,
+    "avgRate": "438566",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e45"
+    },
+    "country": "IRAQ",
+    "currency": "Dinaro Iracheno",
+    "isoCode": "IQD",
+    "uicCode": 93,
+    "avgRate": "1403.534",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e46"
+    },
+    "country": "ISLANDA",
+    "currency": "Corona Islanda",
+    "isoCode": "ISK",
+    "uicCode": 62,
+    "avgRate": "150.30",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e47"
+    },
+    "country": "ISRAELE",
+    "currency": "Shekel",
+    "isoCode": "ILS",
+    "uicCode": 203,
+    "avgRate": "4.0798",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e48"
+    },
+    "country": "KAZAKISTAN",
+    "currency": "Tenge Kazakistan",
+    "isoCode": "KZT",
+    "uicCode": 231,
+    "avgRate": "475.71",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e49"
+    },
+    "country": "KENYA",
+    "currency": "Scellino Keniota",
+    "isoCode": "KES",
+    "uicCode": 22,
+    "avgRate": "144.5678",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e4a"
+    },
+    "country": "KIRGHIZISTAN",
+    "currency": "Som",
+    "isoCode": "KGS",
+    "uicCode": 225,
+    "avgRate": "95.1478",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e4b"
+    },
+    "country": "KUWAIT",
+    "currency": "Dinaro Kuwait",
+    "isoCode": "KWD",
+    "uicCode": 102,
+    "avgRate": "0.3298",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e4c"
+    },
+    "country": "LAOS",
+    "currency": "Lao Kip",
+    "isoCode": "LAK",
+    "uicCode": 154,
+    "avgRate": "21316",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e4d"
+    },
+    "country": "LESOTHO",
+    "currency": "Loti",
+    "isoCode": "LSL",
+    "uicCode": 172,
+    "avgRate": "20.2037",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e4e"
+    },
+    "country": "LIBANO",
+    "currency": "Lira Libanese",
+    "isoCode": "LBP",
+    "uicCode": 32,
+    "avgRate": "16071.00",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e4f"
+    },
+    "country": "LIBERIA",
+    "currency": "Dollaro Liberia",
+    "isoCode": "LRD",
+    "uicCode": 155,
+    "avgRate": "207.0588",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e50"
+    },
+    "country": "LIBIA",
+    "currency": "Dinaro Libico",
+    "isoCode": "LYD",
+    "uicCode": 69,
+    "avgRate": "5.2121",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e51"
+    },
+    "country": "MACAO",
+    "currency": "Pataca",
+    "isoCode": "MOP",
+    "uicCode": 156,
+    "avgRate": "8.6389",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e52"
+    },
+    "country": "MACEDONIA",
+    "currency": "Dinaro Macedonia",
+    "isoCode": "MKD",
+    "uicCode": 236,
+    "avgRate": "61.5136",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e53"
+    },
+    "country": "MADAGASCAR",
+    "currency": "Ariary",
+    "isoCode": "MGA",
+    "uicCode": 268,
+    "avgRate": "4738.37",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e54"
+    },
+    "country": "MALAWI",
+    "currency": "Kwacha Malawi",
+    "isoCode": "MWK",
+    "uicCode": 157,
+    "avgRate": "1854.2879",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e55"
+    },
+    "country": "MALAYSIA",
+    "currency": "Ringgit",
+    "isoCode": "MYR",
+    "uicCode": 55,
+    "avgRate": "5.1079",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e56"
+    },
+    "country": "MALDIVE",
+    "currency": "Rufiyaa",
+    "isoCode": "MVR",
+    "uicCode": 158,
+    "avgRate": "16.5103",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e57"
+    },
+    "country": "MALI",
+    "currency": "Franco CFA",
+    "isoCode": "XOF",
+    "uicCode": 209,
+    "avgRate": "655.957",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e58"
+    },
+    "country": "MAROCCO",
+    "currency": "Dirham Marocco",
+    "isoCode": "MAD",
+    "uicCode": 84,
+    "avgRate": "10.849",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e59"
+    },
+    "country": "MAURITANIA",
+    "currency": "Ouguiya",
+    "isoCode": "MRU",
+    "uicCode": 282,
+    "avgRate": "42.256",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e5a"
+    },
+    "country": "MAURITIUS",
+    "currency": "Rupia Mauritius",
+    "isoCode": "MUR",
+    "uicCode": 170,
+    "avgRate": "50.1604",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e5b"
+    },
+    "country": "MESSICO",
+    "currency": "Peso Messicano",
+    "isoCode": "MXN",
+    "uicCode": 222,
+    "avgRate": "18.4672",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e5c"
+    },
+    "country": "MOLDAVIA",
+    "currency": "Leu Moldavia",
+    "isoCode": "MDL",
+    "uicCode": 235,
+    "avgRate": "19.0957",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e5d"
+    },
+    "country": "MONGOLIA",
+    "currency": "Tugrik",
+    "isoCode": "MNT",
+    "uicCode": 160,
+    "avgRate": "3618.49",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e5e"
+    },
+    "country": "MOZAMBICO",
+    "currency": "Nuovo Metical Mozambico",
+    "isoCode": "MZN",
+    "uicCode": 272,
+    "avgRate": "68.54",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e5f"
+    },
+    "country": "MYANMAR (Birmania)",
+    "currency": "Kyat",
+    "isoCode": "MMK",
+    "uicCode": 107,
+    "avgRate": "2249.9",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e60"
+    },
+    "country": "NAMIBIA",
+    "currency": "Dollaro Namibia",
+    "isoCode": "NAD",
+    "uicCode": 252,
+    "avgRate": "20.2037",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e61"
+    },
+    "country": "NEPAL",
+    "currency": "Rupia Nepalese",
+    "isoCode": "NPR",
+    "uicCode": 161,
+    "avgRate": "142.9106",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e62"
+    },
+    "country": "NICARAGUA",
+    "currency": "Cordoba Oro",
+    "isoCode": "NIO",
+    "uicCode": 120,
+    "avgRate": "39.4529",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e63"
+    },
+    "country": "NIGER",
+    "currency": "Franco CFA",
+    "isoCode": "XOF",
+    "uicCode": 209,
+    "avgRate": "655.957",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e64"
+    },
+    "country": "NIGERIA",
+    "currency": "Naira",
+    "isoCode": "NGN",
+    "uicCode": 81,
+    "avgRate": "1247.4739",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e65"
+    },
+    "country": "NORVEGIA",
+    "currency": "Corona Norvegese",
+    "isoCode": "NOK",
+    "uicCode": 8,
+    "avgRate": "11.7995",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e66"
+    },
+    "country": "NUOVA ZELANDA",
+    "currency": "Dollaro Neozelandese",
+    "isoCode": "NZD",
+    "uicCode": 113,
+    "avgRate": "1.8010",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e67"
+    },
+    "country": "OMAN",
+    "currency": "Rial Oman",
+    "isoCode": "OMR",
+    "uicCode": 184,
+    "avgRate": "0.4120",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e68"
+    },
+    "country": "PAKISTAN",
+    "currency": "Rupia Pakistana",
+    "isoCode": "PKR",
+    "uicCode": 26,
+    "avgRate": "298.3336",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e69"
+    },
+    "country": "PANAMA",
+    "currency": "Balboa",
+    "isoCode": "PAB",
+    "uicCode": 162,
+    "avgRate": "1.0714",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e6a"
+    },
+    "country": "PAPUA NUOVA GUINEA",
+    "currency": "Kina",
+    "isoCode": "PGK",
+    "uicCode": 190,
+    "avgRate": "4.0940",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e6b"
+    },
+    "country": "PARAGUAY",
+    "currency": "Guarani",
+    "isoCode": "PYG",
+    "uicCode": 101,
+    "avgRate": "7975.61",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e6c"
+    },
+    "country": "PERU",
+    "currency": "Nuevo Sol",
+    "isoCode": "PEN",
+    "uicCode": 201,
+    "avgRate": "4.0219",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e6d"
+    },
+    "country": "POLINESIA FRANCESE",
+    "currency": "Franco C.F.P.",
+    "isoCode": "XPF",
+    "uicCode": 105,
+    "avgRate": "119.3317",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e6e"
+    },
+    "country": "POLONIA",
+    "currency": "Zloty",
+    "isoCode": "PLN",
+    "uicCode": 237,
+    "avgRate": "4.3205",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e6f"
+    },
+    "country": "QATAR",
+    "currency": "Riyal Qatar",
+    "isoCode": "QAR",
+    "uicCode": 189,
+    "avgRate": "3.8999",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e70"
+    },
+    "country": "REGNO UNITO",
+    "currency": "Sterlina Gran Bretagna",
+    "isoCode": "GBP",
+    "uicCode": 2,
+    "avgRate": "0.85643",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e71"
+    },
+    "country": "ROMANIA",
+    "currency": "Nuovo Leu",
+    "isoCode": "RON",
+    "uicCode": 270,
+    "avgRate": "4.9764",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e72"
+    },
+    "country": "RUSSIA",
+    "currency": "Rublo Russia",
+    "isoCode": "RUB",
+    "uicCode": 244,
+    "avgRate": "N.D.",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e73"
+    },
+    "country": "RWANDA",
+    "currency": "Franco Ruanda",
+    "isoCode": "RWF",
+    "uicCode": 163,
+    "avgRate": "1385.2337",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e74"
+    },
+    "country": "SALOMONE ISOLE",
+    "currency": "Dollaro Isole Salomone",
+    "isoCode": "SBD",
+    "uicCode": 206,
+    "avgRate": "9.1651",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e75"
+    },
+    "country": "SAMOA OCCIDENTALI",
+    "currency": "Tala",
+    "isoCode": "WST",
+    "uicCode": 164,
+    "avgRate": "2.9625",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e76"
+    },
+    "country": "SANT ELENA",
+    "currency": "Sterlina S.Elena",
+    "isoCode": "SHP",
+    "uicCode": 207,
+    "avgRate": "0.85643",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e77"
+    },
+    "country": "SAO TOME e PRINCIPE",
+    "currency": "Dobra",
+    "isoCode": "STN",
+    "uicCode": 283,
+    "avgRate": "24.5000",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e78"
+    },
+    "country": "SENEGAL",
+    "currency": "Franco CFA",
+    "isoCode": "XOF",
+    "uicCode": 209,
+    "avgRate": "655.957",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e79"
+    },
+    "country": "SERBIA",
+    "currency": "Dinaro Serbo",
+    "isoCode": "RSD",
+    "uicCode": 274,
+    "avgRate": "117.0110",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e7a"
+    },
+    "country": "SEYCHELLES",
+    "currency": "Rupia Seychelles",
+    "isoCode": "SCR",
+    "uicCode": 185,
+    "avgRate": "15.3769",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e7b"
+    },
+    "country": "SIERRA LEONE",
+    "currency": "Leone",
+    "isoCode": "SLE",
+    "uicCode": 291,
+    "avgRate": "24.2898",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e7c"
+    },
+    "country": "SINGAPORE",
+    "currency": "Dollaro Singapore",
+    "isoCode": "SGD",
+    "uicCode": 124,
+    "avgRate": "1.4587",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e7d"
+    },
+    "country": "SIRIA",
+    "currency": "Lira Siriana",
+    "isoCode": "SYP",
+    "uicCode": 36,
+    "avgRate": "13459.4625",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e7e"
+    },
+    "country": "SOMALIA",
+    "currency": "Scellino Somalo",
+    "isoCode": "SOS",
+    "uicCode": 65,
+    "avgRate": "612.3051",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e7f"
+    },
+    "country": "SRI LANKA",
+    "currency": "Rupia Sri Lanka",
+    "isoCode": "LKR",
+    "uicCode": 58,
+    "avgRate": "317.7611",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e80"
+    },
+    "country": "ST. LUCIA",
+    "currency": "Dollaro Caraibi Est",
+    "isoCode": "XCD",
+    "uicCode": 137,
+    "avgRate": "2.8928",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e81"
+    },
+    "country": "ST. VINCENT E GRENADINES",
+    "currency": "Dollaro Caraibi Est",
+    "isoCode": "XCD",
+    "uicCode": 137,
+    "avgRate": "2.8928",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e82"
+    },
+    "country": "ST.KITTIS E NEVIS",
+    "currency": "Dollaro Caraibi Est",
+    "isoCode": "XCD",
+    "uicCode": 137,
+    "avgRate": "2.8928",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e83"
+    },
+    "country": "STATI UNITI",
+    "currency": "Dollaro USA",
+    "isoCode": "USD",
+    "uicCode": 1,
+    "avgRate": "1.0714",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.663Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e84"
+    },
+    "country": "SUD AFRICA",
+    "currency": "Rand",
+    "isoCode": "ZAR",
+    "uicCode": 82,
+    "avgRate": "20.2037",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e85"
+    },
+    "country": "SUD SUDAN",
+    "currency": "Sterlina Sud Sudan",
+    "isoCode": "SSP",
+    "uicCode": 279,
+    "avgRate": "1689.1444",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e86"
+    },
+    "country": "SUDAN",
+    "currency": "Sterlina Sudanese",
+    "isoCode": "SDG",
+    "uicCode": 275,
+    "avgRate": "643.4916",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e87"
+    },
+    "country": "SURINAME",
+    "currency": "Dollaro Suriname",
+    "isoCode": "SRD",
+    "uicCode": 266,
+    "avgRate": "36.484",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e88"
+    },
+    "country": "SVEZIA",
+    "currency": "Corona Svedese",
+    "isoCode": "SEK",
+    "uicCode": 9,
+    "avgRate": "11.7052",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e89"
+    },
+    "country": "SVIZZERA",
+    "currency": "Franco Svizzero",
+    "isoCode": "CHF",
+    "uicCode": 3,
+    "avgRate": "0.9779",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e8a"
+    },
+    "country": "TAGIKISTAN",
+    "currency": "Somoni",
+    "isoCode": "TJS",
+    "uicCode": 264,
+    "avgRate": "11.7170",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e8b"
+    },
+    "country": "TAIWAN",
+    "currency": "Dollaro Taiwan",
+    "isoCode": "TWD",
+    "uicCode": 143,
+    "avgRate": "34.9045",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e8c"
+    },
+    "country": "TANZANIA",
+    "currency": "Scellino Tanzania",
+    "isoCode": "TZS",
+    "uicCode": 125,
+    "avgRate": "2773.4408",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e8d"
+    },
+    "country": "THAILANDIA",
+    "currency": "Baht",
+    "isoCode": "THB",
+    "uicCode": 73,
+    "avgRate": "39.583",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e8e"
+    },
+    "country": "TOGO",
+    "currency": "Franco CFA",
+    "isoCode": "XOF",
+    "uicCode": 209,
+    "avgRate": "655.957",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e8f"
+    },
+    "country": "TONGA ISOLA",
+    "currency": "Pa Anga",
+    "isoCode": "TOP",
+    "uicCode": 167,
+    "avgRate": "2.5281",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e90"
+    },
+    "country": "TRINIDAD e TOBAGO",
+    "currency": "Dollaro Trinidad eTobago",
+    "isoCode": "TTD",
+    "uicCode": 166,
+    "avgRate": "7.2742",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e91"
+    },
+    "country": "TUNISIA",
+    "currency": "Dinaro Tunisino",
+    "isoCode": "TND",
+    "uicCode": 80,
+    "avgRate": "3.3658",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e92"
+    },
+    "country": "TURCHIA",
+    "currency": "Lira Turchia (nuova)",
+    "isoCode": "TRY",
+    "uicCode": 267,
+    "avgRate": "34.8036",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e93"
+    },
+    "country": "TURKMENISTAN",
+    "currency": "Manat Turkmenistan (nuovo)",
+    "isoCode": "TMT",
+    "uicCode": 278,
+    "avgRate": "3.7499",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e94"
+    },
+    "country": "UCRAINA",
+    "currency": "Hryvnia",
+    "isoCode": "UAH",
+    "uicCode": 241,
+    "avgRate": "42.4409",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e95"
+    },
+    "country": "UGANDA",
+    "currency": "Scellino Ugandese",
+    "isoCode": "UGX",
+    "uicCode": 126,
+    "avgRate": "4080.44",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e96"
+    },
+    "country": "UNGHERIA",
+    "currency": "Forint Ungherese",
+    "isoCode": "HUF",
+    "uicCode": 153,
+    "avgRate": "392.2800",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e97"
+    },
+    "country": "URUGUAY",
+    "currency": "Peso Uruguaiano",
+    "isoCode": "UYU",
+    "uicCode": 53,
+    "avgRate": "41.1657",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e98"
+    },
+    "country": "UZBEKISTAN",
+    "currency": "Sum Uzbekistan",
+    "isoCode": "UZS",
+    "uicCode": 232,
+    "avgRate": "13576.95",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e99"
+    },
+    "country": "VANUATU",
+    "currency": "Vatu",
+    "isoCode": "VUV",
+    "uicCode": 208,
+    "avgRate": "129.82",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e9a"
+    },
+    "country": "VENEZUELA",
+    "currency": "Bolivar Soberano",
+    "isoCode": "VES",
+    "uicCode": 284,
+    "avgRate": "38.9835",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e9b"
+    },
+    "country": "VIETNAM",
+    "currency": "Dong",
+    "isoCode": "VND",
+    "uicCode": 145,
+    "avgRate": "27159",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e9c"
+    },
+    "country": "YEMEN",
+    "currency": "Rial",
+    "isoCode": "YER",
+    "uicCode": 122,
+    "avgRate": "268.12",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e9d"
+    },
+    "country": "ZAMBIA",
+    "currency": "Kwacha Zambia",
+    "isoCode": "ZMW",
+    "uicCode": 148,
+    "avgRate": "28.2669",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e9e"
+    },
+    "country": "ZIMBABWE",
+    "currency": "Dollaro Zimbabwese",
+    "isoCode": "ZWL",
+    "uicCode": 61,
+    "avgRate": "14.3801",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Euro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.664Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53e9f"
+    },
+    "country": "AFGHANISTAN",
+    "currency": "Afghani",
+    "isoCode": "AFN",
+    "uicCode": 115,
+    "avgRate": "72.1254",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ea0"
+    },
+    "country": "ALBANIA",
+    "currency": "Lek",
+    "isoCode": "ALL",
+    "uicCode": 47,
+    "avgRate": "94.01",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ea1"
+    },
+    "country": "ALGERIA",
+    "currency": "Dinaro Algerino",
+    "isoCode": "DZD",
+    "uicCode": 106,
+    "avgRate": "134.4574",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ea2"
+    },
+    "country": "ANGOLA",
+    "currency": "Readjustado Kwanza",
+    "isoCode": "AOA",
+    "uicCode": 87,
+    "avgRate": "840.633",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ea3"
+    },
+    "country": "ANTIGUA E BARBUDA",
+    "currency": "Dollaro Caraibi Est",
+    "isoCode": "XCD",
+    "uicCode": 137,
+    "avgRate": "2.70",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ea4"
+    },
+    "country": "ANTILLE OLANDESI",
+    "currency": "Fiorino Antille Olandesi",
+    "isoCode": "ANG",
+    "uicCode": 132,
+    "avgRate": "1.79",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ea5"
+    },
+    "country": "ARABIA SAUDITA",
+    "currency": "Riyal Saudita",
+    "isoCode": "SAR",
+    "uicCode": 75,
+    "avgRate": "3.75",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ea6"
+    },
+    "country": "ARGENTINA",
+    "currency": "Peso Argentina",
+    "isoCode": "ARS",
+    "uicCode": 216,
+    "avgRate": "873.8818",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ea7"
+    },
+    "country": "ARMENIA",
+    "currency": "Dram Armenia",
+    "isoCode": "AMD",
+    "uicCode": 246,
+    "avgRate": "389.12",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ea8"
+    },
+    "country": "ARUBA",
+    "currency": "Fiorino Aruba",
+    "isoCode": "AWG",
+    "uicCode": 211,
+    "avgRate": "1.79",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ea9"
+    },
+    "country": "AUSTRALIA",
+    "currency": "Dollaro Australiano",
+    "isoCode": "AUD",
+    "uicCode": 109,
+    "avgRate": "0.6536",
+    "exchangeConvention": "Quantita' di Dollari per 1 unita' di valuta estera",
+    "exchangeConventionCode": "I",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eaa"
+    },
+    "country": "AZERBAIGIAN",
+    "currency": "Manat Azerbaigian (nuovo)",
+    "isoCode": "AZN",
+    "uicCode": 271,
+    "avgRate": "1.7000",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eab"
+    },
+    "country": "BAHAMAS",
+    "currency": "Dollaro Bahama",
+    "isoCode": "BSD",
+    "uicCode": 135,
+    "avgRate": "1",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eac"
+    },
+    "country": "BAHRAIN",
+    "currency": "Dinaro Bahrain",
+    "isoCode": "BHD",
+    "uicCode": 136,
+    "avgRate": "0.376",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ead"
+    },
+    "country": "BANGLADESH",
+    "currency": "Taka",
+    "isoCode": "BDT",
+    "uicCode": 174,
+    "avgRate": "110.0000",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eae"
+    },
+    "country": "BARBADOS",
+    "currency": "Dollaro Barbados",
+    "isoCode": "BBD",
+    "uicCode": 195,
+    "avgRate": "2",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eaf"
+    },
+    "country": "BELIZE",
+    "currency": "Dollaro Belize",
+    "isoCode": "BZD",
+    "uicCode": 152,
+    "avgRate": "2",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eb0"
+    },
+    "country": "BENIN",
+    "currency": "Franco CFA",
+    "isoCode": "XOF",
+    "uicCode": 209,
+    "avgRate": "612.243",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eb1"
+    },
+    "country": "BERMUDA",
+    "currency": "Dollaro Bermuda",
+    "isoCode": "BMD",
+    "uicCode": 138,
+    "avgRate": "1",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eb2"
+    },
+    "country": "BHUTAN",
+    "currency": "Ngultrum",
+    "isoCode": "BTN",
+    "uicCode": 180,
+    "avgRate": "83.3667",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eb3"
+    },
+    "country": "BIELORUSSIA",
+    "currency": "Rublo Bielorussia (nuovo)",
+    "isoCode": "BYN",
+    "uicCode": 280,
+    "avgRate": "N.D.",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eb4"
+    },
+    "country": "BOLIVIA",
+    "currency": "Boliviano",
+    "isoCode": "BOB",
+    "uicCode": 74,
+    "avgRate": "6.91",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eb5"
+    },
+    "country": "BOSNIA ERZEGOVINA",
+    "currency": "Marco Convertibile",
+    "isoCode": "BAM",
+    "uicCode": 240,
+    "avgRate": "1.825490",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eb6"
+    },
+    "country": "BOTSWANA",
+    "currency": "Pula",
+    "isoCode": "BWP",
+    "uicCode": 171,
+    "avgRate": "0.0724",
+    "exchangeConvention": "Quantita' di Dollari per 1 unita' di valuta estera",
+    "exchangeConventionCode": "I",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eb7"
+    },
+    "country": "BRASILE",
+    "currency": "Real",
+    "isoCode": "BRL",
+    "uicCode": 234,
+    "avgRate": "5.1529",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eb8"
+    },
+    "country": "BRUNEI DARUSSALAM",
+    "currency": "Dollaro Brunei",
+    "isoCode": "BND",
+    "uicCode": 139,
+    "avgRate": "1.3615",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eb9"
+    },
+    "country": "BULGARIA",
+    "currency": "Nuovo Lev Bulgaria",
+    "isoCode": "BGN",
+    "uicCode": 262,
+    "avgRate": "1.8255",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eba"
+    },
+    "country": "BURKINA FASO",
+    "currency": "Franco CFA",
+    "isoCode": "XOF",
+    "uicCode": 209,
+    "avgRate": "612.243",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ebb"
+    },
+    "country": "BURUNDI",
+    "currency": "Franco Burundi",
+    "isoCode": "BIF",
+    "uicCode": 140,
+    "avgRate": "2874.373",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ebc"
+    },
+    "country": "CAMBOGIA",
+    "currency": "Riel Kampuchea",
+    "isoCode": "KHR",
+    "uicCode": 141,
+    "avgRate": "4059.54",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ebd"
+    },
+    "country": "CAMERUN",
+    "currency": "Franco CFA",
+    "isoCode": "XAF",
+    "uicCode": 43,
+    "avgRate": "612.243",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ebe"
+    },
+    "country": "CANADA",
+    "currency": "Dollaro Canadese",
+    "isoCode": "CAD",
+    "uicCode": 12,
+    "avgRate": "1.3657",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ebf"
+    },
+    "country": "CAPO VERDE",
+    "currency": "Escudo Capo Verde",
+    "isoCode": "CVE",
+    "uicCode": 181,
+    "avgRate": "102.917",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ec0"
+    },
+    "country": "CAYMAN (Isole)",
+    "currency": "Dollaro Isole Cayman",
+    "isoCode": "KYD",
+    "uicCode": 205,
+    "avgRate": "0.82",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ec1"
+    },
+    "country": "CECA (Repubblica)",
+    "currency": "Corona Ceca",
+    "isoCode": "CZK",
+    "uicCode": 223,
+    "avgRate": "23.4870",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ec2"
+    },
+    "country": "CENTRAFRICANA (Repubblica)",
+    "currency": "Franco CFA",
+    "isoCode": "XAF",
+    "uicCode": 43,
+    "avgRate": "612.243",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ec3"
+    },
+    "country": "CIAD",
+    "currency": "Franco CFA",
+    "isoCode": "XAF",
+    "uicCode": 43,
+    "avgRate": "612.243",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ec4"
+    },
+    "country": "CILE",
+    "currency": "Peso Cileno",
+    "isoCode": "CLP",
+    "uicCode": 29,
+    "avgRate": "948.92",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ec5"
+    },
+    "country": "CINA (Repubblica Popolare di)",
+    "currency": "Renminbi(Yuan)",
+    "isoCode": "CNY",
+    "uicCode": 144,
+    "avgRate": "7.2464",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ec6"
+    },
+    "country": "COLOMBIA",
+    "currency": "Peso Colombiano",
+    "isoCode": "COP",
+    "uicCode": 40,
+    "avgRate": "3956.38",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ec7"
+    },
+    "country": "COMORE (Isole)",
+    "currency": "Franco Isole Comore",
+    "isoCode": "KMF",
+    "uicCode": 210,
+    "avgRate": "459.18214",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ec8"
+    },
+    "country": "CONGO (Repubblica Democratica)",
+    "currency": "Franco Congolese",
+    "isoCode": "CDF",
+    "uicCode": 261,
+    "avgRate": "2788.3815",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ec9"
+    },
+    "country": "CONGO (Repubblica del)",
+    "currency": "Franco CFA",
+    "isoCode": "XAF",
+    "uicCode": 43,
+    "avgRate": "612.243",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eca"
+    },
+    "country": "COREA DEL NORD",
+    "currency": "Won Nord",
+    "isoCode": "KPW",
+    "uicCode": 182,
+    "avgRate": "2.2",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ecb"
+    },
+    "country": "COREA DEL SUD",
+    "currency": "Won Sud",
+    "isoCode": "KRW",
+    "uicCode": 119,
+    "avgRate": "1376.38",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ecc"
+    },
+    "country": "COSTA D AVORIO",
+    "currency": "Franco CFA",
+    "isoCode": "XOF",
+    "uicCode": 209,
+    "avgRate": "612.243",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ecd"
+    },
+    "country": "COSTA RICA",
+    "currency": "Colon Costa Rica",
+    "isoCode": "CRC",
+    "uicCode": 77,
+    "avgRate": "505.21",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ece"
+    },
+    "country": "CUBA",
+    "currency": "Peso Cubano",
+    "isoCode": "CUP",
+    "uicCode": 67,
+    "avgRate": "24",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ecf"
+    },
+    "country": "DANIMARCA",
+    "currency": "Corona Danese",
+    "isoCode": "DKK",
+    "uicCode": 7,
+    "avgRate": "6.9603",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ed0"
+    },
+    "country": "DOMINICA",
+    "currency": "Dollaro Caraibi Est",
+    "isoCode": "XCD",
+    "uicCode": 137,
+    "avgRate": "2.70",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ed1"
+    },
+    "country": "DOMINICANA (Repubblica)",
+    "currency": "Peso Dominicano",
+    "isoCode": "DOP",
+    "uicCode": 116,
+    "avgRate": "58.5716",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ed2"
+    },
+    "country": "EGITTO",
+    "currency": "Lira Egiziana",
+    "isoCode": "EGP",
+    "uicCode": 70,
+    "avgRate": "47.8988",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ed3"
+    },
+    "country": "EL SALVADOR",
+    "currency": "Colon Salvadoregno",
+    "isoCode": "SVC",
+    "uicCode": 117,
+    "avgRate": "8.75",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ed4"
+    },
+    "country": "EMIRATI ARABI UNITI",
+    "currency": "Dirham Emirati Arabi",
+    "isoCode": "AED",
+    "uicCode": 187,
+    "avgRate": "3.6725",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ed5"
+    },
+    "country": "ERITREA",
+    "currency": "Nakfa",
+    "isoCode": "ERN",
+    "uicCode": 243,
+    "avgRate": "15.38",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ed6"
+    },
+    "country": "ESWATINI (EX SWAZILAND)",
+    "currency": "Lilangeni",
+    "isoCode": "SZL",
+    "uicCode": 173,
+    "avgRate": "18.8573",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ed7"
+    },
+    "country": "ETIOPIA",
+    "currency": "Birr",
+    "isoCode": "ETB",
+    "uicCode": 68,
+    "avgRate": "57.1714",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ed8"
+    },
+    "country": "FALKLAND o MALVINE (Isole)",
+    "currency": "Sterlina Falkland",
+    "isoCode": "FKP",
+    "uicCode": 146,
+    "avgRate": "1.2510",
+    "exchangeConvention": "Quantita' di Dollari per 1 unita' di valuta estera",
+    "exchangeConventionCode": "I",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ed9"
+    },
+    "country": "FIJI",
+    "currency": "Dollaro Fiji",
+    "isoCode": "FJD",
+    "uicCode": 147,
+    "avgRate": "0.4370",
+    "exchangeConvention": "Quantita' di Dollari per 1 unita' di valuta estera",
+    "exchangeConventionCode": "I",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eda"
+    },
+    "country": "FILIPPINE",
+    "currency": "Peso Filippino",
+    "isoCode": "PHP",
+    "uicCode": 66,
+    "avgRate": "57.7095",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53edb"
+    },
+    "country": "FONDO MONETARIO INTERNAZIONALE",
+    "currency": "DSP",
+    "isoCode": "XDR",
+    "uicCode": 188,
+    "avgRate": "0.758994",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53edc"
+    },
+    "country": "GABON",
+    "currency": "Franco CFA",
+    "isoCode": "XAF",
+    "uicCode": 43,
+    "avgRate": "612.243",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53edd"
+    },
+    "country": "GAMBIA",
+    "currency": "Dalasi",
+    "isoCode": "GMD",
+    "uicCode": 193,
+    "avgRate": "67.06",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ede"
+    },
+    "country": "GEORGIA",
+    "currency": "Lari",
+    "isoCode": "GEL",
+    "uicCode": 230,
+    "avgRate": "2.6790",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53edf"
+    },
+    "country": "GHANA",
+    "currency": "Nuovo Cedi Ghana",
+    "isoCode": "GHS",
+    "uicCode": 276,
+    "avgRate": "13.5444",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ee0"
+    },
+    "country": "GIAMAICA",
+    "currency": "Dollaro Giamaicano",
+    "isoCode": "JMD",
+    "uicCode": 142,
+    "avgRate": "156.1057",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ee1"
+    },
+    "country": "GIAPPONE",
+    "currency": "Yen Giapponese",
+    "isoCode": "JPY",
+    "uicCode": 71,
+    "avgRate": "156.8322",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ee2"
+    },
+    "country": "GIBILTERRA",
+    "currency": "Sterlina Gibilterra",
+    "isoCode": "GIP",
+    "uicCode": 44,
+    "avgRate": "1.2510",
+    "exchangeConvention": "Quantita' di Dollari per 1 unita' di valuta estera",
+    "exchangeConventionCode": "I",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ee3"
+    },
+    "country": "GIBUTI",
+    "currency": "Franco Gibuti",
+    "isoCode": "DJF",
+    "uicCode": 83,
+    "avgRate": "177.721",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ee4"
+    },
+    "country": "GIORDANIA",
+    "currency": "Dinaro Giordano",
+    "isoCode": "JOD",
+    "uicCode": 89,
+    "avgRate": "0.709",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ee5"
+    },
+    "country": "GRENADA",
+    "currency": "Dollaro Caraibi Est",
+    "isoCode": "XCD",
+    "uicCode": 137,
+    "avgRate": "2.70",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ee6"
+    },
+    "country": "GUATEMALA",
+    "currency": "Quetzal",
+    "isoCode": "GTQ",
+    "uicCode": 78,
+    "avgRate": "7.77735",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ee7"
+    },
+    "country": "GUINEA",
+    "currency": "Franco Guineano",
+    "isoCode": "GNF",
+    "uicCode": 129,
+    "avgRate": "8514.2685",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ee8"
+    },
+    "country": "GUINEA BISSAU",
+    "currency": "Franco CFA",
+    "isoCode": "XOF",
+    "uicCode": 209,
+    "avgRate": "612.243",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ee9"
+    },
+    "country": "GUINEA EQUATORIALE",
+    "currency": "Franco CFA",
+    "isoCode": "XAF",
+    "uicCode": 43,
+    "avgRate": "612.243",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eea"
+    },
+    "country": "GUYANA",
+    "currency": "Dollaro Guyana",
+    "isoCode": "GYD",
+    "uicCode": 149,
+    "avgRate": "209.22",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eeb"
+    },
+    "country": "HAITI",
+    "currency": "Gourde",
+    "isoCode": "HTG",
+    "uicCode": 151,
+    "avgRate": "132.2214",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eec"
+    },
+    "country": "HONDURAS",
+    "currency": "Lempira",
+    "isoCode": "HNL",
+    "uicCode": 118,
+    "avgRate": "24.7086",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eed"
+    },
+    "country": "HONG KONG (Cina)",
+    "currency": "Dollaro Hong Kong",
+    "isoCode": "HKD",
+    "uicCode": 103,
+    "avgRate": "7.8284",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eee"
+    },
+    "country": "INDIA",
+    "currency": "Rupia Indiana",
+    "isoCode": "INR",
+    "uicCode": 31,
+    "avgRate": "83.3667",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eef"
+    },
+    "country": "INDONESIA",
+    "currency": "Rupia Indonesiana",
+    "isoCode": "IDR",
+    "uicCode": 123,
+    "avgRate": "16227.15",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ef0"
+    },
+    "country": "IRAN",
+    "currency": "Rial Iraniano",
+    "isoCode": "IRR",
+    "uicCode": 57,
+    "avgRate": "409339",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ef1"
+    },
+    "country": "IRAQ",
+    "currency": "Dinaro Iracheno",
+    "isoCode": "IQD",
+    "uicCode": 93,
+    "avgRate": "1310",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ef2"
+    },
+    "country": "ISLANDA",
+    "currency": "Corona Islanda",
+    "isoCode": "ISK",
+    "uicCode": 62,
+    "avgRate": "140.28",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ef3"
+    },
+    "country": "ISRAELE",
+    "currency": "Shekel",
+    "isoCode": "ILS",
+    "uicCode": 203,
+    "avgRate": "3.8079",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ef4"
+    },
+    "country": "KAZAKISTAN",
+    "currency": "Tenge Kazakistan",
+    "isoCode": "KZT",
+    "uicCode": 231,
+    "avgRate": "444.01",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ef5"
+    },
+    "country": "KENYA",
+    "currency": "Scellino Keniota",
+    "isoCode": "KES",
+    "uicCode": 22,
+    "avgRate": "134.9335",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ef6"
+    },
+    "country": "KIRGHIZISTAN",
+    "currency": "Som",
+    "isoCode": "KGS",
+    "uicCode": 225,
+    "avgRate": "88.8070",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ef7"
+    },
+    "country": "KUWAIT",
+    "currency": "Dinaro Kuwait",
+    "isoCode": "KWD",
+    "uicCode": 102,
+    "avgRate": "0.3078",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ef8"
+    },
+    "country": "LAOS",
+    "currency": "Lao Kip",
+    "isoCode": "LAK",
+    "uicCode": 154,
+    "avgRate": "19895",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53ef9"
+    },
+    "country": "LESOTHO",
+    "currency": "Loti",
+    "isoCode": "LSL",
+    "uicCode": 172,
+    "avgRate": "18.8573",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53efa"
+    },
+    "country": "LIBANO",
+    "currency": "Lira Libanese",
+    "isoCode": "LBP",
+    "uicCode": 32,
+    "avgRate": "15000.0",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53efb"
+    },
+    "country": "LIBERIA",
+    "currency": "Dollaro Liberia",
+    "isoCode": "LRD",
+    "uicCode": 155,
+    "avgRate": "193.26",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53efc"
+    },
+    "country": "LIBIA",
+    "currency": "Dinaro Libico",
+    "isoCode": "LYD",
+    "uicCode": 69,
+    "avgRate": "4.8648",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.887Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53efd"
+    },
+    "country": "MACAO",
+    "currency": "Pataca",
+    "isoCode": "MOP",
+    "uicCode": 156,
+    "avgRate": "8.0632",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53efe"
+    },
+    "country": "MACEDONIA",
+    "currency": "Dinaro Macedonia",
+    "isoCode": "MKD",
+    "uicCode": 236,
+    "avgRate": "57.4142",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53eff"
+    },
+    "country": "MADAGASCAR",
+    "currency": "Ariary",
+    "isoCode": "MGA",
+    "uicCode": 268,
+    "avgRate": "4422.60",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f00"
+    },
+    "country": "MALAWI",
+    "currency": "Kwacha Malawi",
+    "isoCode": "MWK",
+    "uicCode": 157,
+    "avgRate": "1730.7149",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f01"
+    },
+    "country": "MALAYSIA",
+    "currency": "Ringgit",
+    "isoCode": "MYR",
+    "uicCode": 55,
+    "avgRate": "4.7675",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f02"
+    },
+    "country": "MALDIVE",
+    "currency": "Rufiyaa",
+    "isoCode": "MVR",
+    "uicCode": 158,
+    "avgRate": "15.41",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f03"
+    },
+    "country": "MALI",
+    "currency": "Franco CFA",
+    "isoCode": "XOF",
+    "uicCode": 209,
+    "avgRate": "612.243",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f04"
+    },
+    "country": "MAROCCO",
+    "currency": "Dirham Marocco",
+    "isoCode": "MAD",
+    "uicCode": 84,
+    "avgRate": "10.126",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f05"
+    },
+    "country": "MAURITANIA",
+    "currency": "Ouguiya",
+    "isoCode": "MRU",
+    "uicCode": 282,
+    "avgRate": "39.440",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f06"
+    },
+    "country": "MAURITIUS",
+    "currency": "Rupia Mauritius",
+    "isoCode": "MUR",
+    "uicCode": 170,
+    "avgRate": "46.8176",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f07"
+    },
+    "country": "MESSICO",
+    "currency": "Peso Messicano",
+    "isoCode": "MXN",
+    "uicCode": 222,
+    "avgRate": "17.2365",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f08"
+    },
+    "country": "MOLDAVIA",
+    "currency": "Leu Moldavia",
+    "isoCode": "MDL",
+    "uicCode": 235,
+    "avgRate": "17.8231",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f09"
+    },
+    "country": "MONGOLIA",
+    "currency": "Tugrik",
+    "isoCode": "MNT",
+    "uicCode": 160,
+    "avgRate": "3377.35",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f0a"
+    },
+    "country": "MOZAMBICO",
+    "currency": "Nuovo Metical Mozambico",
+    "isoCode": "MZN",
+    "uicCode": 272,
+    "avgRate": "63.97",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f0b"
+    },
+    "country": "MYANMAR (Birmania)",
+    "currency": "Kyat",
+    "isoCode": "MMK",
+    "uicCode": 107,
+    "avgRate": "2100.0",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f0c"
+    },
+    "country": "NAMIBIA",
+    "currency": "Dollaro Namibia",
+    "isoCode": "NAD",
+    "uicCode": 252,
+    "avgRate": "18.8573",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f0d"
+    },
+    "country": "NEPAL",
+    "currency": "Rupia Nepalese",
+    "isoCode": "NPR",
+    "uicCode": 161,
+    "avgRate": "133.39",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f0e"
+    },
+    "country": "NICARAGUA",
+    "currency": "Cordoba Oro",
+    "isoCode": "NIO",
+    "uicCode": 120,
+    "avgRate": "36.8237",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f0f"
+    },
+    "country": "NIGER",
+    "currency": "Franco CFA",
+    "isoCode": "XOF",
+    "uicCode": 209,
+    "avgRate": "612.243",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f10"
+    },
+    "country": "NIGERIA",
+    "currency": "Naira",
+    "isoCode": "NGN",
+    "uicCode": 81,
+    "avgRate": "1164.34",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f11"
+    },
+    "country": "NORVEGIA",
+    "currency": "Corona Norvegese",
+    "isoCode": "NOK",
+    "uicCode": 8,
+    "avgRate": "11.0132",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f12"
+    },
+    "country": "NUOVA ZELANDA",
+    "currency": "Dollaro Neozelandese",
+    "isoCode": "NZD",
+    "uicCode": 113,
+    "avgRate": "0.5949",
+    "exchangeConvention": "Quantita' di Dollari per 1 unita' di valuta estera",
+    "exchangeConventionCode": "I",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f13"
+    },
+    "country": "OMAN",
+    "currency": "Rial Oman",
+    "isoCode": "OMR",
+    "uicCode": 184,
+    "avgRate": "0.3845",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f14"
+    },
+    "country": "PAKISTAN",
+    "currency": "Rupia Pakistana",
+    "isoCode": "PKR",
+    "uicCode": 26,
+    "avgRate": "278.4521",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f15"
+    },
+    "country": "PANAMA",
+    "currency": "Balboa",
+    "isoCode": "PAB",
+    "uicCode": 162,
+    "avgRate": "1",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f16"
+    },
+    "country": "PAPUA NUOVA GUINEA",
+    "currency": "Kina",
+    "isoCode": "PGK",
+    "uicCode": 190,
+    "avgRate": "0.2617",
+    "exchangeConvention": "Quantita' di Dollari per 1 unita' di valuta estera",
+    "exchangeConventionCode": "I",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f17"
+    },
+    "country": "PARAGUAY",
+    "currency": "Guarani",
+    "isoCode": "PYG",
+    "uicCode": 101,
+    "avgRate": "7444.10",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f18"
+    },
+    "country": "PERU",
+    "currency": "Nuevo Sol",
+    "isoCode": "PEN",
+    "uicCode": 201,
+    "avgRate": "3.7539",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f19"
+    },
+    "country": "POLINESIA FRANCESE",
+    "currency": "Franco C.F.P.",
+    "isoCode": "XPF",
+    "uicCode": 105,
+    "avgRate": "111.38",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f1a"
+    },
+    "country": "POLONIA",
+    "currency": "Zloty",
+    "isoCode": "PLN",
+    "uicCode": 237,
+    "avgRate": "4.0326",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f1b"
+    },
+    "country": "QATAR",
+    "currency": "Riyal Qatar",
+    "isoCode": "QAR",
+    "uicCode": 189,
+    "avgRate": "3.64",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f1c"
+    },
+    "country": "REGNO UNITO",
+    "currency": "Sterlina Gran Bretagna",
+    "isoCode": "GBP",
+    "uicCode": 2,
+    "avgRate": "1.2510",
+    "exchangeConvention": "Quantita' di Dollari per 1 unita' di valuta estera",
+    "exchangeConventionCode": "I",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f1d"
+    },
+    "country": "ROMANIA",
+    "currency": "Nuovo Leu",
+    "isoCode": "RON",
+    "uicCode": 270,
+    "avgRate": "4.6448",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f1e"
+    },
+    "country": "RUSSIA",
+    "currency": "Rublo Russia",
+    "isoCode": "RUB",
+    "uicCode": 244,
+    "avgRate": "N.D.",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f1f"
+    },
+    "country": "RWANDA",
+    "currency": "Franco Ruanda",
+    "isoCode": "RWF",
+    "uicCode": 163,
+    "avgRate": "1292.9193",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f20"
+    },
+    "country": "SALOMONE ISOLE",
+    "currency": "Dollaro Isole Salomone",
+    "isoCode": "SBD",
+    "uicCode": 206,
+    "avgRate": "0.1169",
+    "exchangeConvention": "Quantita' di Dollari per 1 unita' di valuta estera",
+    "exchangeConventionCode": "I",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f21"
+    },
+    "country": "SAMOA OCCIDENTALI",
+    "currency": "Tala",
+    "isoCode": "WST",
+    "uicCode": 164,
+    "avgRate": "2.7651",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f22"
+    },
+    "country": "SANT ELENA",
+    "currency": "Sterlina S.Elena",
+    "isoCode": "SHP",
+    "uicCode": 207,
+    "avgRate": "1.2510",
+    "exchangeConvention": "Quantita' di Dollari per 1 unita' di valuta estera",
+    "exchangeConventionCode": "I",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f23"
+    },
+    "country": "SAO TOME e PRINCIPE",
+    "currency": "Dobra",
+    "isoCode": "STN",
+    "uicCode": 283,
+    "avgRate": "22.8673",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f24"
+    },
+    "country": "SENEGAL",
+    "currency": "Franco CFA",
+    "isoCode": "XOF",
+    "uicCode": 209,
+    "avgRate": "612.243",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f25"
+    },
+    "country": "SERBIA",
+    "currency": "Dinaro Serbo",
+    "isoCode": "RSD",
+    "uicCode": 274,
+    "avgRate": "109.2132",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f26"
+    },
+    "country": "SEYCHELLES",
+    "currency": "Rupia Seychelles",
+    "isoCode": "SCR",
+    "uicCode": 185,
+    "avgRate": "14.3522",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f27"
+    },
+    "country": "SIERRA LEONE",
+    "currency": "Leone",
+    "isoCode": "SLE",
+    "uicCode": 291,
+    "avgRate": "22.6711",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f28"
+    },
+    "country": "SINGAPORE",
+    "currency": "Dollaro Singapore",
+    "isoCode": "SGD",
+    "uicCode": 124,
+    "avgRate": "1.3615",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f29"
+    },
+    "country": "SIRIA",
+    "currency": "Lira Siriana",
+    "isoCode": "SYP",
+    "uicCode": 36,
+    "avgRate": "12562.50",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f2a"
+    },
+    "country": "SOMALIA",
+    "currency": "Scellino Somalo",
+    "isoCode": "SOS",
+    "uicCode": 65,
+    "avgRate": "571.50",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f2b"
+    },
+    "country": "SRI LANKA",
+    "currency": "Rupia Sri Lanka",
+    "isoCode": "LKR",
+    "uicCode": 58,
+    "avgRate": "296.5849",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f2c"
+    },
+    "country": "ST. LUCIA",
+    "currency": "Dollaro Caraibi Est",
+    "isoCode": "XCD",
+    "uicCode": 137,
+    "avgRate": "2.70",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f2d"
+    },
+    "country": "ST. VINCENT E GRENADINES",
+    "currency": "Dollaro Caraibi Est",
+    "isoCode": "XCD",
+    "uicCode": 137,
+    "avgRate": "2.70",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f2e"
+    },
+    "country": "ST.KITTIS E NEVIS",
+    "currency": "Dollaro Caraibi Est",
+    "isoCode": "XCD",
+    "uicCode": 137,
+    "avgRate": "2.70",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f2f"
+    },
+    "country": "SUD AFRICA",
+    "currency": "Rand",
+    "isoCode": "ZAR",
+    "uicCode": 82,
+    "avgRate": "18.8573",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f30"
+    },
+    "country": "SUD SUDAN",
+    "currency": "Sterlina Sud Sudan",
+    "isoCode": "SSP",
+    "uicCode": 279,
+    "avgRate": "1576.5768",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f31"
+    },
+    "country": "SUDAN",
+    "currency": "Sterlina Sudanese",
+    "isoCode": "SDG",
+    "uicCode": 275,
+    "avgRate": "600.6082",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f32"
+    },
+    "country": "SURINAME",
+    "currency": "Dollaro Suriname",
+    "isoCode": "SRD",
+    "uicCode": 266,
+    "avgRate": "34.053",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f33"
+    },
+    "country": "SVEZIA",
+    "currency": "Corona Svedese",
+    "isoCode": "SEK",
+    "uicCode": 9,
+    "avgRate": "10.9251",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f34"
+    },
+    "country": "SVIZZERA",
+    "currency": "Franco Svizzero",
+    "isoCode": "CHF",
+    "uicCode": 3,
+    "avgRate": "0.9127",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f35"
+    },
+    "country": "TAGIKISTAN",
+    "currency": "Somoni",
+    "isoCode": "TJS",
+    "uicCode": 264,
+    "avgRate": "10.9362",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f36"
+    },
+    "country": "TAIWAN",
+    "currency": "Dollaro Taiwan",
+    "isoCode": "TWD",
+    "uicCode": 143,
+    "avgRate": "32.5784",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f37"
+    },
+    "country": "TANZANIA",
+    "currency": "Scellino Tanzania",
+    "isoCode": "TZS",
+    "uicCode": 125,
+    "avgRate": "2588.6138",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f38"
+    },
+    "country": "THAILANDIA",
+    "currency": "Baht",
+    "isoCode": "THB",
+    "uicCode": 73,
+    "avgRate": "36.945",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f39"
+    },
+    "country": "TOGO",
+    "currency": "Franco CFA",
+    "isoCode": "XOF",
+    "uicCode": 209,
+    "avgRate": "612.243",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f3a"
+    },
+    "country": "TONGA ISOLA",
+    "currency": "Pa Anga",
+    "isoCode": "TOP",
+    "uicCode": 167,
+    "avgRate": "0.4238",
+    "exchangeConvention": "Quantita' di Dollari per 1 unita' di valuta estera",
+    "exchangeConventionCode": "I",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f3b"
+    },
+    "country": "TRINIDAD e TOBAGO",
+    "currency": "Dollaro Trinidad eTobago",
+    "isoCode": "TTD",
+    "uicCode": 166,
+    "avgRate": "6.7894",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f3c"
+    },
+    "country": "TUNISIA",
+    "currency": "Dinaro Tunisino",
+    "isoCode": "TND",
+    "uicCode": 80,
+    "avgRate": "3.1415",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f3d"
+    },
+    "country": "TURCHIA",
+    "currency": "Lira Turchia (nuova)",
+    "isoCode": "TRY",
+    "uicCode": 267,
+    "avgRate": "32.4842",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f3e"
+    },
+    "country": "TURKMENISTAN",
+    "currency": "Manat Turkmenistan (nuovo)",
+    "isoCode": "TMT",
+    "uicCode": 278,
+    "avgRate": "3.50",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f3f"
+    },
+    "country": "UCRAINA",
+    "currency": "Hryvnia",
+    "isoCode": "UAH",
+    "uicCode": 241,
+    "avgRate": "39.6015",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f40"
+    },
+    "country": "UGANDA",
+    "currency": "Scellino Ugandese",
+    "isoCode": "UGX",
+    "uicCode": 126,
+    "avgRate": "3808.51",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f41"
+    },
+    "country": "UNGHERIA",
+    "currency": "Forint Ungherese",
+    "isoCode": "HUF",
+    "uicCode": 153,
+    "avgRate": "366.1378",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f42"
+    },
+    "country": "UNIONE MONETARIA EUROPEA",
+    "currency": "Euro",
+    "isoCode": "EUR",
+    "uicCode": 242,
+    "avgRate": "0.9334",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f43"
+    },
+    "country": "URUGUAY",
+    "currency": "Peso Uruguaiano",
+    "isoCode": "UYU",
+    "uicCode": 53,
+    "avgRate": "38.4223",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f44"
+    },
+    "country": "UZBEKISTAN",
+    "currency": "Sum Uzbekistan",
+    "isoCode": "UZS",
+    "uicCode": 232,
+    "avgRate": "12672.16",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f45"
+    },
+    "country": "VANUATU",
+    "currency": "Vatu",
+    "isoCode": "VUV",
+    "uicCode": 208,
+    "avgRate": "121.17",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f46"
+    },
+    "country": "VENEZUELA",
+    "currency": "Bolivar Soberano",
+    "isoCode": "VES",
+    "uicCode": 284,
+    "avgRate": "36.3856",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f47"
+    },
+    "country": "VIETNAM",
+    "currency": "Dong",
+    "isoCode": "VND",
+    "uicCode": 145,
+    "avgRate": "25349",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f48"
+    },
+    "country": "YEMEN",
+    "currency": "Rial",
+    "isoCode": "YER",
+    "uicCode": 122,
+    "avgRate": "250.25",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f49"
+    },
+    "country": "ZAMBIA",
+    "currency": "Kwacha Zambia",
+    "isoCode": "ZMW",
+    "uicCode": 148,
+    "avgRate": "26.3831",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  },
+  {
+    "_id": {
+      "$oid": "662e132961dfbb1e3bd53f4a"
+    },
+    "country": "ZIMBABWE",
+    "currency": "Dollaro Zimbabwese",
+    "isoCode": "ZWL",
+    "uicCode": 61,
+    "avgRate": "13.4218",
+    "exchangeConvention": "Quantita' di valuta estera per 1 Dollaro",
+    "exchangeConventionCode": "C",
+    "referenceDate": {
+      "$date": "2024-04-26T00:00:00.000Z"
+    },
+    "tmsInsert": {
+      "$date": "2024-04-28T09:13:13.888Z"
+    },
+    "_class": "it.partec.tassidicambio.model.ExchangeRate"
+  }
+]
