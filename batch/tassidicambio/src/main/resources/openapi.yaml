@@ -1,0 +1,519 @@
+openapi: 3.0.3
+info:
+  title: Swagger Exchange Rate BDI - OpenAPI 3.0
+  description: >-
+    Swagger Exchange Rate BDI
+  version: 1.0.11
+externalDocs:
+  description: Find out more about Swagger
+  url: http://swagger.io
+servers:
+  - url: http://localhost:8080/api/v3
+tags:
+  - name: Exchange Rates
+paths:
+  /currencies:
+    get:
+      summary: Visualizza la lista delle divise ISO.
+      description: ''
+      operationId: viewCurrencies
+      responses:
+        '200':
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Currency'
+            application/xml:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Currency'
+        default:
+          description: Default error sample response
+      tags:
+        - Exchange Rates
+  /dailyExchangeRates:
+    post:
+      summary: Visualizza, rispetto alla valuta e alla data di riferimento inserite in request, i tassi di cambio di tutte le divise passate in input.
+      description: ''
+      operationId: viewDailyExchangeRates
+      requestBody:
+        description: ''
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesRequest'
+          application/xml:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesRequest'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesRequest'
+      responses:
+        '200':
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/ExchangeRate'
+            application/xml:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/ExchangeRate'
+        default:
+          description: Default error sample response
+      tags:
+        - Exchange Rates
+  /historyExchangeRates:
+    post:
+      summary: Visualizza, rispetto alla valuta e all'intervallo temporale inserite in request, i tassi di cambio della divisa passata in input.
+      description: ''
+      operationId: drawHistoryExchangeRates
+      requestBody:
+        description: ''
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesRequest'
+          application/xml:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesRequest'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesRequest'
+      responses:
+        '200':
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/ExchangeRate'
+            application/xml:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/ExchangeRate'
+        default:
+          description: Default error sample response
+      tags:
+        - Exchange Rates
+  /downloadCsv:
+    post:
+      summary: Scarica in formato csv i tassi di cambio di tutte le divise passate in input, rispetto alla valuta e alla data di riferimento inserite nella richiesta.
+      description: ''
+      operationId: exportExchangeRatesAsCsv
+      requestBody:
+        description: ''
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesRequest'
+          application/xml:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesRequest'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesRequest'
+      responses:
+        '200':
+          description: A csv file
+          content:
+            text/csv:
+              schema:
+                type: string
+                format: binary
+        default:
+          description: Default error sample response
+      tags:
+        - Exchange Rates
+  /downloadPdf:
+    post:
+      summary: Scarica in formato pdf i tassi di cambio di tutte le divise passate in input, rispetto alla valuta e alla data di riferimento inserite nella richiesta.
+      description: ''
+      operationId: exportExchangeRatesAsPdf
+      requestBody:
+        description: ''
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesRequest'
+          application/xml:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesRequest'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesRequest'
+      responses:
+        '200':
+          description: A pdf file
+          content:
+            application/pdf:
+              schema:
+                type: string
+                format: binary
+        default:
+          description: Default error sample response
+      tags:
+        - Exchange Rates
+  /downloadExcel:
+    post:
+      summary: Scarica in formato excel i tassi di cambio di tutte le divise passate in input, rispetto alla valuta e alla data di riferimento inserite nella richiesta.
+      description: ''
+      operationId: exportExchangeRatesAsExcel
+      requestBody:
+        description: ''
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesRequest'
+          application/xml:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesRequest'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesRequest'
+      responses:
+        '200':
+          description: An excel file
+          content:
+            application/vnd.ms-excel:
+              schema:
+                type: string
+                format: binary
+            application/vnd.openxmlformats-officedocument.spreadsheetml.sheet:
+              schema:
+                type: string
+                format: binary
+        default:
+          description: Default error sample response
+      tags:
+        - Exchange Rates
+  /exchangeSpread:
+    post:
+      summary: Fornisce lo spread percentuale sul tasso di cambio
+      description: ''
+      operationId: getExchangeSpread
+      requestBody:
+        description: ''
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesSpreadRequest'
+          application/xml:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesSpreadRequest'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesSpreadRequest'
+      responses:
+        '200':
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ExchangeRatesSpreadResponse'
+            application/xml:
+              schema:
+                $ref: '#/components/schemas/ExchangeRatesSpreadResponse'
+        default:
+          description: Default error sample response
+      tags:
+        - Exchange Rates
+  /exchangeAmount:
+    post:
+      summary: Fornisce lo spread percentuale sul tasso di cambio
+      description: ''
+      operationId: getExchangeAmount
+      requestBody:
+        description: ''
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ExchangeAmountRequest'
+          application/xml:
+            schema:
+              $ref: '#/components/schemas/ExchangeAmountRequest'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/ExchangeAmountRequest'
+      responses:
+        '200':
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ExchangeAmountResponse'
+            application/xml:
+              schema:
+                $ref: '#/components/schemas/ExchangeAmountResponse'
+        default:
+          description: Default error sample response
+      tags:
+        - Exchange Rates
+  /exchangeRatesFees:
+    post:
+      summary: Fornisce i costi relativi a commissioni di invio, tasso di cambio e commissioni di ricezione
+      description: ''
+      operationId: getExchangeRatesFees
+      requestBody:
+        description: ''
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesFeesRequest'
+          application/xml:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesFeesRequest'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/ExchangeRatesFeesRequest'
+      responses:
+        '200':
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ExchangeRatesFeesResponse'
+            application/xml:
+              schema:
+                $ref: '#/components/schemas/ExchangeRatesFeesResponse'
+        default:
+          description: Default error sample response
+      tags:
+        - Exchange Rates
+components:
+  schemas:
+    ExchangeRatesFeesRequest:
+      type: object
+      properties:
+        exchangeRateApplied:
+          type: number
+          format: float
+          example: 1.08
+        paidAmount:
+          type: number
+          format: float
+          example: 10
+        sentFeesPercent:
+          type: number
+          format: float
+          example: 0.01
+        receivedFeesPercent:
+          type: number
+          format: float
+          example: 0.01
+        exchangeRateMkt:
+          type: number
+          format: float
+          example: 1.07
+        fromCurrency:
+          type: string
+          example: EUR
+        toCurrency:
+          type: string
+          example: USD
+      xml:
+        name: exchangeRatesFeesRequest
+    ExchangeRatesFeesResponse:
+      type: object
+      properties:
+        exchangeRatesFees:
+          type: object
+          properties:
+            sentFeesCurrencyFrom:
+              $ref: '#/components/schemas/Fee'
+            feeExchangeRateCurrencyFrom:
+              $ref: '#/components/schemas/Fee'
+            receivedFeesCurrencyFrom:
+              $ref: '#/components/schemas/Fee'
+            totalFeeCurrencyFrom:
+              $ref: '#/components/schemas/Fee'
+            sentFeesCurrencyTo:
+              $ref: '#/components/schemas/Fee'
+            feeExchangeRateCurrencyTo:
+              $ref: '#/components/schemas/Fee'
+            receivedFeesCurrencyTo:
+              $ref: '#/components/schemas/Fee'
+            totalFeeCurrencyTo:
+              $ref: '#/components/schemas/Fee'
+      xml:
+        name: exchangeRatesFeesResponse
+    Fee:
+      type: object
+      properties:
+        amount:
+          type: number
+          format: float
+          example: 0.10
+        percent:
+          type: number
+          format: float
+          example: 1.01
+      xml:
+        name: fee
+    ExchangeAmountRequest:
+      type: object
+      properties:
+        exchangeRateApplied:
+          type: number
+          format: float
+          example: 1.08
+        paidAmount:
+          type: number
+          format: float
+          example: 10
+        sentFeesPercent:
+          type: number
+          format: float
+          example: 0.01
+        receivedFeesPercent:
+          type: number
+          format: float
+          example: 0.01
+      xml:
+        name: exchangeAmountRequest
+    ExchangeAmountResponse:
+      type: object
+      properties:
+        exchangeAmount:
+          type: number
+          format: float
+          example: 10.59
+      xml:
+        name: exchangeAmountResponse
+    ExchangeRatesSpreadResponse:
+      type: object
+      properties:
+        exchangeRateSpread:
+          type: number
+          format: float
+          example: -0.93
+      xml:
+        name: exchangeRatesSpreadResponse
+    ExchangeRatesSpreadRequest:
+      type: object
+      properties:
+        exchangeRateApplied:
+          type: number
+          format: float
+          example: 1.08
+        exchangeRateMkt:
+          type: number
+          format: float
+          example: 1.07
+      xml:
+        name: exchangeRatesSpreadRequest
+    SortData:
+      type: object
+      properties:
+        field:
+          type: string
+          example: avgRate
+        sort:
+          type: string
+          enum:
+            - ASC
+            - DESC
+          example: ASC
+    ExchangeRatesRequest:
+      type: object
+      properties:
+        from:
+          type: string
+          format: date
+        to:
+          type: string
+          format: date
+        referenceCurrency:
+          type: string
+          example: EUR
+        isoCurrencies:
+          type: array
+          xml:
+            name: currencies
+            wrapped: true
+          items:
+            type: string
+          example: ["USD", "AUD", "GBP"]
+        page:
+          type: integer
+          format: int64
+          example: 0
+        nrElement:
+          type: integer
+          format: int64
+          example: 20
+        sort:
+          $ref: '#/components/schemas/SortData'
+      xml:
+        name: exchangeRatesRequest
+    ExchangeRate:
+      type: object
+      properties:
+        country:
+          type: string
+          example: AUSTRALIA
+        currency:
+          type: string
+          example: Dollaro Australiano
+        isoCode:
+          type: string
+          example: AUD
+        uicCode:
+          type: integer
+          format: int64
+          example: 109
+        avgRate:
+          type: number
+          format: float
+          example: 1.6515
+        exchangeConvention:
+          type: string
+          example: Quantità di valuta estera per 1 Euro
+        referenceDate:
+          type: string
+          format: date
+          example: 2024-02-26
+        referenceCurrency:
+          type: string
+          example: EUR
+        tmsInsert:
+          type: string
+          format: date-time
+      xml:
+        name: exchangeRate
+    Currency:
+      type: object
+      properties:
+        currencyISO:
+          type: string
+          example: USD
+        currencyName:
+          type: string
+          example: Dollaro USA
+        country:
+          type: string
+          example: STATI UNITI
+        countryISO:
+          type: string
+          example: US
+        validityStartDate:
+          type: string
+          format: date
+          example: 1918-01-02
+        validityEndDate:
+          type: string
+          format: date
+        tmsInsert:
+          type: string
+          format: date-time
+      xml:
+        name: currency
